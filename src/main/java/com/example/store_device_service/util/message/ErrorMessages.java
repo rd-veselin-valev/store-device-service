@@ -1,5 +1,6 @@
 package com.example.store_device_service.util.message;
 
 public class ErrorMessages {
-    public static final String MARKET_NOT_FOUND = "Market with marketId %d not found";
+    public static final String DEVICE_NOT_FOUND = "Device with a serial number %s not found";
+    ;
 }
